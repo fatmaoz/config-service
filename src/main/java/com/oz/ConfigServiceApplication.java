@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.oz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
